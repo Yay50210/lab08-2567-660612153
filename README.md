@@ -2,9 +2,9 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:660612153
 
-ชื่อ-สกุล :
+ชื่อ-สกุล : พชร กัณธิจัย
 
 Vercel URL :
 
@@ -17,3 +17,4 @@ Vercel URL :
 หลังจาก Deploy ด้วย Vercel แล้ว ให้แปะลิงค์ Deploy และลิงค์ GitHub Repo ของน.ศ. ไว้ใน Spreadsheet ด้านล่าง
 
 [คลิกเพื่อเปิด Spreadsheet](https://o365cmu-my.sharepoint.com/:x:/g/personal/dome_potikanond_cmu_ac_th/EfmPM2Wz7OZAiAn23yVwzKwBQHqwexFV9D9nodS5msT5WA?e=Mh82x3)
+
