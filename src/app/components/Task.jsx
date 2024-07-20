@@ -1,15 +1,11 @@
 import React from 'react'
 
-export default function Task(task) {
-  let style = {};
-  if(task.isDone === true){
-    style = {"text-decoration":"line-through"};
-
+export default function Task(tasks) {
+  let styles = {};
+  if(tasks.isDone === true){
+    styles = {"text-decoration":"line-through"};
   }
-  
-  
-  
-    return (
+  return (
     <div className="d-flex p-3 gap-2 align-items-center border-bottom">
           <span style={styles} >{tasks.title}</span>
           <button className="btn btn-success">Done</button>

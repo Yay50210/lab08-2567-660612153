@@ -2,6 +2,7 @@ import Footer from "./components/footer";
 import footer from "./components/footer";
 import Header from "./components/header";
 import TaskInput from "./components/TaskInput";
+import Task from "./components/Task"
 
 export default function Home() {
 
@@ -27,6 +28,7 @@ export default function Home() {
         <Task {...tasks[0]}/>
         <Task {...tasks[1]}/>
         <Task {...tasks[2]}/>
+        
         </div>
       
       {/* //footer section */}
